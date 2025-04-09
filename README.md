@@ -1,5 +1,5 @@
-![alt text](image.png)
+![alt text](src/image-1.png)
 
 https://www.pokemon.com/uk/pokedex/golurk
 
-![alt text](image-1.png)
+![alt text](src/image.png)
