@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://assets.pokemon.com/static2/_ui/img/chrome/body_white_bg.png");
+}
+
+.evolution {
+    margin: 3rem 0rem;
+    padding: 1.5rem;
+    color: white;
+    border-radius: 7px;
+    background-image: url("https://assets.pokemon.com/static2/_ui/img/chrome/body_gray_bg.png");
+}
+
+.evolution__image {
+    border: solid 5px #ffffff;
+    border-radius: 100%;
+    background-color: #616161;
+}
+
+.pokemon__image {
+    background-color: #f2f2f2;
+    border-radius: 5px;
+}
+
+.stat__label {
+    font-size: 9pt;
+    font-weight: bold;
+}
+
+.pokeball {
+    margin: 5px;
+    border-radius: 100%;
+}
+
+.pokeball__red {
+    background: #dd2d51; 
+}
+
+.pokeball__blue {
+    background: #0072b0;
+}
+
+.pokeball__active {
+    border: solid 5px #ffffffaa;
+    border-radius: 100%;
+}

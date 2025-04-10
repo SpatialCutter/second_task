@@ -1,0 +1,32 @@
+.ground {
+    color: black;
+    background: linear-gradient(to bottom, #f7de3f 50%, #ab9842 50%);
+    border: 0px;
+}
+
+.ghost {
+    background: #7b62a3;
+    border-color: #7b62a3;
+}
+
+.water {
+    background: #4592c4;
+    border-color: #4592c4;
+}
+
+.grass {
+    color: black;
+    background: #9bcc50;
+    border-color: #9bcc50;
+}
+
+.ice {
+    color: black;
+    background: #51c4e7;
+    border-color: #51c4e7;
+}
+
+.dark {
+    background: #707070;
+    border-color: #707070;
+}
